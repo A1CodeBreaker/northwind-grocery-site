@@ -1,1 +1,1 @@
-# northwind-grocery-site
+# northwind-grocery-workshop
